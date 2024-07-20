@@ -7,3 +7,4 @@ Ceci est mon premier projet me permettant de mettre en pratique toutes les conna
 - création de "ordered" et "unordered" lists
 - modification visuelle du texte (en gras)
 - première tentative d'utilisation de git et Github (git clone, git add, git commit -m, git status, git log et git push)
+- première utilisation de CSS (CSS externe et inline, création de classes, couleur de texte et d'arrière plan, typographie des titres, enlever sous-lignage de liens)
